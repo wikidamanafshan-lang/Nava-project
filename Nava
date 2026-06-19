@@ -1,0 +1,133 @@
+Nava
+
+Mobility + Fintech Super App for Emerging Markets
+
+Nava is an AI-native mobility and financial services platform designed for emerging markets, starting with Africa.
+
+The platform combines ride-hailing, digital payments, wallets, credit scoring, micro-lending, and financial infrastructure into a single scalable ecosystem.
+
+---
+
+Vision
+
+To become the operating system for mobility and financial inclusion across emerging economies.
+
+---
+
+Core Products
+
+Mobility
+
+- Ride Hailing
+- Driver Management
+- Real-Time Dispatch
+- Live Tracking
+- Dynamic Pricing
+- Multi-City Expansion
+
+Fintech
+
+- Digital Wallet
+- Peer-to-Peer Transfers
+- Merchant Payments
+- Credit Scoring
+- Micro Lending
+- Financial Analytics
+
+AI Infrastructure
+
+- Fraud Detection
+- Risk Assessment
+- Credit Intelligence
+- Demand Forecasting
+- Dynamic Driver Allocation
+
+---
+
+Technology Stack
+
+Mobile
+
+- Flutter
+- Riverpod
+- GoRouter
+
+Backend
+
+- NestJS
+- PostgreSQL
+- Prisma ORM
+- Redis
+- Kafka
+
+Cloud Infrastructure
+
+- AWS
+- Kubernetes
+- Terraform
+- Docker
+
+Analytics & AI
+
+- Python
+- Machine Learning
+- Event-Driven Architecture
+
+---
+
+Architecture
+
+Nava follows an event-driven microservices architecture:
+
+Client Apps
+↓
+API Gateway
+↓
+Microservices Layer
+↓
+Kafka Event Bus
+↓
+Wallet / Lending / Mobility Services
+↓
+PostgreSQL + Redis
+
+---
+
+Current Modules
+
+- Customer Application
+- Driver Application
+- Admin Dashboard
+- Wallet Engine
+- Double Entry Ledger
+- Dispatch Engine
+- Fraud Detection System
+- Credit Scoring Engine
+- Lending Platform
+
+---
+
+Long-Term Goal
+
+Build the leading Mobility + Fintech Super App serving millions of users across Africa, the Middle East, and other emerging markets.
+
+---
+
+Status
+
+Project Stage: Early Growth / Investor Preparation
+
+Focus:
+
+- MVP Completion
+- Multi-City Deployment
+- Strategic Partnerships
+- Series A Fundraising
+
+---
+
+License
+
+Proprietary Software
+
+Copyright © Nava Technologies
